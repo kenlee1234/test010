@@ -4,5 +4,4 @@ restore
 understand how git work
 track changes
 remote
-dev branch 
-feature1 
+dev branch and feature1 branch conflict
