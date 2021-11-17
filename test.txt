@@ -6,3 +6,4 @@ track changes
 remote
 dev branch and feature1 branch conflict
 branch management
+bug
