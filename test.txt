@@ -7,3 +7,4 @@ remote
 dev branch and feature1 branch conflict
 branch management
 ff test
+fix bug
