@@ -1,2 +1,4 @@
 #test
 *.class
+
+!abcd.class
